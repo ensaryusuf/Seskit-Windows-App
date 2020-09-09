@@ -1,0 +1,11 @@
+D:\VisualStudio\source\repos\seskitapp\seskitapp\bin\Debug\seskitapp.exe.config
+D:\VisualStudio\source\repos\seskitapp\seskitapp\bin\Debug\seskitapp.exe
+D:\VisualStudio\source\repos\seskitapp\seskitapp\bin\Debug\seskitapp.pdb
+D:\VisualStudio\source\repos\seskitapp\seskitapp\obj\Debug\seskitapp.csprojAssemblyReference.cache
+D:\VisualStudio\source\repos\seskitapp\seskitapp\obj\Debug\seskitapp.Form1.resources
+D:\VisualStudio\source\repos\seskitapp\seskitapp\obj\Debug\seskitapp.Properties.Resources.resources
+D:\VisualStudio\source\repos\seskitapp\seskitapp\obj\Debug\seskitapp.seskit.resources
+D:\VisualStudio\source\repos\seskitapp\seskitapp\obj\Debug\seskitapp.csproj.GenerateResource.cache
+D:\VisualStudio\source\repos\seskitapp\seskitapp\obj\Debug\seskitapp.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\seskitapp\seskitapp\obj\Debug\seskitapp.exe
+D:\VisualStudio\source\repos\seskitapp\seskitapp\obj\Debug\seskitapp.pdb
